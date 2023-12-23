@@ -42,6 +42,9 @@ This web application is a Movie Database built using the MERN (MongoDB, Express.
 
 1. Clone the repository.
 
+or you may need to download the initial file then go back and click on client and dowload it. 
+once this is done you will have to copy the new client file into the origianl downloaded file and name it client
+
    cd client
    npm install
 
